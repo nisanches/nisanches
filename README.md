@@ -1,0 +1,4 @@
+- 👋 Hi, meu nome é @nisanches
+-  meu email é nicolesanches134@gmail.com
+- 👀 I’m interesada em aprender sobre programação 
+- 🌱 I’m currently learning javas script
